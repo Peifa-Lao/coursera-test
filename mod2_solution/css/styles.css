@@ -6,7 +6,7 @@ h1 {
 
 #subBox {
   position: relative;
-  border: 3px solid black;
+  border: 1px solid black;
   color:black;
   background-color: grey;
   padding: 0px;
@@ -33,7 +33,7 @@ h1 {
   right: 0px;
   width: 100px;
   height: 30px;
-  border: 3px solid black;
+  border: 1px solid black;
   background-color:red;
   text-align: center;
   color: white;
