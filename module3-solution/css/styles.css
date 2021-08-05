@@ -26,7 +26,7 @@
 
 .navbar-brand h1 {    
     font-size: 1.5em;
-    color: black;   
+ 
     margin-top: 0;
     margin-left: 15px;
     margin-bottom: 0;
@@ -37,18 +37,15 @@
     margin-top: 15px;
     background-color: grey;
 }
-.text-center {
+.title {
     font-size: 38px;
     font-weight: bold;
     position: relative;
     text-align: center;
 }
 
-#text {       
+.top{       
     margin: 10px;
-    background-color: black; 
     position: relative;
     text-align: center;
 }
-
-
